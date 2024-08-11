@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.circle-container {
+  position: relative;
+  margin: 20px auto;
+  border: 2px solid #000;
+  width: 300px;
+  height: 300px;
+}
+
+.all-cleared {
+  color: green;
+}
+
+.over {
+  color: red;
+}
